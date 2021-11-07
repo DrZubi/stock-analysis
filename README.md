@@ -37,7 +37,7 @@ The refactored code I've created helped improve the runtime of the previous macr
 
 The advantages of refactoring code make a script easier to understand and cheaper to modify without changing any observable behavior; the code will continue to do the same task, but in a more efficient and cost-effective way. Refactoring helps improve the design of the software (reusability), helps find and debug bugs that help make the logic flow easier to understand (readability), and helps the efficiency of the code runtime (runtime). However, there are certain times where a coder may not want to perform a refactoring task if it exceeds their budget and time. Refactoring code at a larger scale may prove to be extremely costly and timely depending on its function. 
 
-3) How do those pros and cons apply to refactoring the original VBA script?
+2) How do those pros and cons apply to refactoring the original VBA script?
 
 When refactoring the original VBA script, I had made the module script more readable and efficient. As shown above in the figures 1 and 2, the runtime for the script drastically reduced to a fraction of a second! In addition, the refactored script also extended the reusability of the original code to be used to analyze the entire stock market (with some more minor changes for user inputs). 
 
