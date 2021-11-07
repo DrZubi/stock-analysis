@@ -34,4 +34,9 @@ The refactored code I've created helped improve the runtime of the previous macr
 ## Summary Questions: 
 
 1) What are the advantages or disadvantages of refactoring code? 
-2) How do those pros and cons apply to refactoring the original VBA script?
+
+The advantages of refactoring code 
+
+3) How do those pros and cons apply to refactoring the original VBA script?
+
+
